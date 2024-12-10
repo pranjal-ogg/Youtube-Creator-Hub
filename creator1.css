@@ -1,0 +1,111 @@
+
+    
+
+header {
+    background-color: #b2071d; 
+    padding: 20px 0;
+    color: white;
+}
+header .logo h1 {
+    font-family: Abril Fatface, serif;
+    font-size: 30px;
+    font-weight: bold;
+    text-shadow: 0 0 20px rgba(228, 134, 134, 0.8)
+
+}
+
+header nav ul {
+    display: flex;
+    justify-content: flex-end ;
+    list-style-type: none;
+    
+}
+
+header nav ul li {
+    margin-left: 30px;
+}
+
+header nav ul li a {
+    color:white;
+    font-size: 18px;
+    font-weight: bold;
+    padding: 10px;
+}
+
+header nav ul li a:hover {
+    background-color: white;
+    color: #ff4d4d;
+    border-radius: 5px;
+}
+  
+  .article h1 {
+    font-size: 2.5em;
+    margin-bottom: 10px;
+    color: #ff0000;
+  }
+  
+  .article p {
+    font-size: 1.2em;
+    
+  }
+  .article{
+        text-align: center;
+  }
+  .content .steps{
+    text-align: center;
+  }
+
+  .content {
+    padding: 20px;
+  }
+  
+  .intro, .steps, .start {
+    margin-bottom: 30px;
+    text-align: center;
+  }
+  
+  h2 {
+    font-size: 1.8em;
+    margin-bottom: 10px;
+    color: #ff0000;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .inside li {
+    background: #fff;
+    margin: 10px 0;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .strong {
+    color: #ff0000;
+  }
+  
+  
+  .start {
+    text-align: center;
+  }
+  
+  .ytbutton {
+    display: inline-block;
+    margin-top: 15px;
+    padding: 10px 20px;
+    background: #ff0000;
+    color: #fff;
+    text-decoration: none;
+    font-size: 1.2em;
+    border-radius: 5px;
+    transition: background 0.3s ease;
+  }
+  
+  .ytbutton:hover {
+    background: #cc0000;
+  }
+  
+  
