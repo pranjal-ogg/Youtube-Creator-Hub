@@ -9,3 +9,5 @@ Our platform empowers users with:
 
 Educational Resources: Tutorials and guides on video creation, audience growth.
 Collaboration Opportunities: Connect with other creators or hire freelancers for assistance.
+Contributors
+We are a passionate team of developers, designers, and content creators aiming to simplify YouTube for everyone.
